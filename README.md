@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Flen!
+
+##I'm a former musicaltheater singer and dancer who now found his new passion in life; Coding
+- 🌱 I’m currently studying to become a software engineer at Codam Coding Chellenge where I mainly focus on learning C and C++
+
 
 <!--
 **fhuisman/fhuisman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
