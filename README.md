@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Flen!
 
-I'm a former musicaltheater singer and dancer who now found his new passion in life; Coding
+#### I'm a former musicaltheater singer and dancer who now found his new passion in life; Coding
 Therefore I am currently studying to become a software engineer at Codam Coding Chellenge where I mainly focus on learning C and C++!
 
 
